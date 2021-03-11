@@ -4,5 +4,6 @@
 }
 .about {
     padding:5%;
-    
+    width: 300px;
+    margin:auto;  
 }
